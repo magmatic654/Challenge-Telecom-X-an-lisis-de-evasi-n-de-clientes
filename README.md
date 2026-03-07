@@ -3,21 +3,6 @@
 ## 📌 Propósito del Proyecto
 Este proyecto tiene como objetivo analizar el abandono de clientes (churn) en la empresa ficticia Telecom X. A través de técnicas de extracción, limpieza y análisis de datos, se busca identificar patrones de comportamiento que permitan diseñar estrategias de retención más efectivas.
 
-## 📂 Estructura del Proyecto
-TelecomX/
-│
-├── data/
-│   └── TelecomX_Data.json        # Datos originales en formato JSON
-│
-├── notebooks/
-│   └── TelecomX_LATAM.ipynb      # Notebook principal con el análisis
-│
-├── results/
-│   ├── churn_charges_bins.png    # Gráfico de churn por cargos totales
-│   └── churn_tenure_bins.png     # Gráfico de churn por antigüedad
-│
-└── README.md                     # Documentación del proyecto
-
 ## 📊 Ejemplos de Gráficos e Insights
 ### 1. Churn por Cargos Totales
 - Los clientes con gastos más bajos (Bin 0) presentan una tasa de abandono cercana al 46%.
